@@ -1,5 +1,5 @@
 #My favorite restaurant list
-
+![image](https://github.com/ziwenying/restaurant/blob/main/public/image/Restaurant%20List.jpg)
 
 ## Introduction
 check all my favorite restaurant list and the information about these restaurants
